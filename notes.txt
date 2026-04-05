@@ -1,0 +1,1 @@
+php artisan optimize:clear && composer dump-autoload: to run them together whenever something "should work but doesn't"

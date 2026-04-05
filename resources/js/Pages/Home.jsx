@@ -12,8 +12,8 @@ const categories = [
 export default function Home() {
   return (
     <div className="min-h-screen">
-      <section className="bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-600">
-        <div className="mx-auto flex max-w-6xl flex-col items-start gap-8 px-6 py-24 text-white md:flex-row md:items-center md:justify-between">
+      <section className="mx-4 md:mx-8 rounded-2xl bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-600 px-4 py-6 md:px-6 md:py-8">
+        <div className="mx-auto flex max-w-6xl flex-col items-start gap-20 px-6 py-24 text-white md:flex-row md:items-center md:justify-between">
           <div className="max-w-xl">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">Find services or hire talent—fast.</h1>
             <p className="mt-6 text-lg text-blue-100">
